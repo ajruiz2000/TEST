@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/subec/Desktop/AR/Thermal%20backups/working_everything/firmware/src/app_main.h</file>
+            <file>file:/C:/Users/subec/Desktop/AR/Thermal%20backups/working_everything/firmware/src/config/default/usb/src/usb_device.c</file>
+            <file>file:/C:/Users/subec/Desktop/AR/Thermal%20backups/working_everything/firmware/src/config/default/exceptions.c</file>
+            <file>file:/C:/Users/subec/Desktop/AR/Thermal%20backups/working_everything/firmware/src/EEPROM_MAP.h</file>
+            <file>file:/C:/Users/subec/Desktop/AR/Thermal%20backups/working_everything/firmware/src/app_main.c</file>
+            <file>file:/C:/Users/subec/Desktop/AR/Thermal%20backups/working_everything/firmware/src/config/default/peripheral/gpio/plib_gpio.h</file>
+            <file>file:/C:/Users/subec/Desktop/AR/Thermal%20backups/working_everything/firmware/src/config/default/tasks.c</file>
+            <file>file:/C:/Users/subec/Desktop/AR/Thermal%20backups/working_everything/firmware/src/Athena.h</file>
+            <file>file:/C:/Users/subec/Desktop/AR/Thermal%20backups/working_everything/firmware/src/thermal_commands.h</file>
+            <file>file:/C:/Users/subec/Desktop/AR/Thermal%20backups/working_everything/firmware/src/thermal_commands.c</file>
+            <file>file:/C:/Users/subec/Desktop/AR/Thermal%20backups/working_everything/firmware/src/D32.c</file>
+            <file>file:/C:/Users/subec/Desktop/AR/Thermal%20backups/working_everything/firmware/src/D32.h</file>
+            <file>file:/C:/Users/subec/Desktop/AR/Thermal%20backups/working_everything/firmware/src/main.c</file>
+            <file>file:/C:/Users/subec/Desktop/AR/Thermal%20backups/working_everything/firmware/src/config/default/peripheral/uart/plib_uart2.c</file>
+            <file>file:/C:/Users/subec/HarmonyProjects/MyProject_8/firmware/src/Athena.c</file>
+            <file>file:/C:/Users/subec/Desktop/AR/Thermal%20backups/working_everything/firmware/src/app.c</file>
+            <file>file:/C:/Users/subec/HarmonyProjects/MyProject_8/firmware/src/thermal_states.c</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,56 @@
+C:\Users\Anthony\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Anthony\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Anthony\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Anthony\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Anthony\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Anthony\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Anthony\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Anthony\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Anthony\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.xml
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\WindowsFormsApplication1\bin\Debug\ZedGraph.xml
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\WindowsFormsApplication1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\WindowsFormsApplication1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\WindowsFormsApplication1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\WindowsFormsApplication1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\WindowsFormsApplication1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\WindowsFormsApplication1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\WindowsFormsApplication1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\WindowsFormsApplication1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\WindowsFormsApplication1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\WindowsFormsApplication1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\WindowsFormsApplication1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog

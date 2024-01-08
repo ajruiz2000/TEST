@@ -1,0 +1,16 @@
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\ThermalControllerSW\ThermalControllerSW\bin\Release\ThermalControllerSW.exe.manifest
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\ThermalControllerSW\ThermalControllerSW\bin\Release\ThermalControllerSW.application
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\ThermalControllerSW\ThermalControllerSW\bin\Release\ThermalControllerSW.exe
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\ThermalControllerSW\ThermalControllerSW\bin\Release\ThermalControllerSW.pdb
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\ThermalControllerSW\ThermalControllerSW\bin\Release\LibUsbDotNet.dll
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\ThermalControllerSW\ThermalControllerSW\bin\Release\LibUsbDotNet.xml
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\ThermalControllerSW\ThermalControllerSW\obj\x86\Release\ThermalControllerSW.csprojResolveAssemblyReference.cache
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\ThermalControllerSW\ThermalControllerSW\obj\x86\Release\ThermalControllerSW.Properties.Resources.resources
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\ThermalControllerSW\ThermalControllerSW\obj\x86\Release\ThermalControllerSW.csproj.GenerateResource.Cache
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\ThermalControllerSW\ThermalControllerSW\obj\x86\Release\ThermalControllerSW.exe.manifest
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\ThermalControllerSW\ThermalControllerSW\obj\x86\Release\ThermalControllerSW.application
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\ThermalControllerSW\ThermalControllerSW\obj\x86\Release\ThermalControllerSW.exe
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\ThermalControllerSW\ThermalControllerSW\obj\x86\Release\ThermalControllerSW.pdb
+C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\ThermalControllerSW\ThermalControllerSW\obj\x86\Release\ThermalControllerSW.ThermalBackgroundWorker.resources
+C:\Users\Owner\Desktop\QFI 1-24-17\Thermal Controller\ThermalTestSoftwareC#\ThermalControllerSW\ThermalControllerSW\obj\x86\Release\ThermalControllerSW.exe
+C:\Users\Owner\Desktop\QFI 1-24-17\Thermal Controller\ThermalTestSoftwareC#\ThermalControllerSW\ThermalControllerSW\obj\x86\Release\ThermalControllerSW.pdb

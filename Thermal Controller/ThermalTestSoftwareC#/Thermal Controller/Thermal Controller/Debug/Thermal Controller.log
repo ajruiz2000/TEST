@@ -1,0 +1,20 @@
+﻿Build started 4/11/2014 1:40:05 PM.
+     1>Project "C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\Thermal Controller\Thermal Controller\Thermal Controller.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Thermal Controller.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\Thermal Controller\Debug\Thermal Controller.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST:NO /DEBUG /PDB:"C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\Thermal Controller\Debug\Thermal Controller.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\Thermal Controller\Debug\Thermal Controller.lib" /MACHINE:X86 "Debug\Thermal Controller.res"
+         Debug\stdafx.obj
+         "Debug\Thermal Controller.obj"
+     1>stdafx.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+     1>LINK : fatal error LNK1123: failure during conversion to COFF: file invalid or corrupt
+     1>Done Building Project "C:\Users\Sony User\Desktop\QFI\Thermal Controller\ThermalTestSoftwareC#\Thermal Controller\Thermal Controller\Thermal Controller.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.59

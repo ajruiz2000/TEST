@@ -1,0 +1,20 @@
+build/default/production/_ext/1360907413/usb_device.o:  \
+ ../USB/usb_device.c  \
+../Include/GenericTypeDefs.h  \
+../Include/Compiler.h  \
+../Include/p32xxxx.h  \
+../Include/./USB/USB.h  \
+../Include/Compiler.h  \
+../usb_config.h  \
+../Include/usb/usb_common.h  \
+../Include/usb/usb_ch9.h  \
+../Include/usb/usb_device.h  \
+../Include/usb/usb_common.h  \
+../Include/usb/usb_ch9.h  \
+../Include/usb/usb_hal.h  \
+../Include/USB/usb_hal_pic32.h  \
+../Include/Compiler.h  \
+../HardwareProfile.h  \
+../Include/Compiler.h  \
+../ini.h  \
+../Errors.h 
